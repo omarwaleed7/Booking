@@ -72,7 +72,7 @@ The Booking API uses MySQL as its underlying database system. You can configure 
 
 Click the image below to view the database schema:
 
-<a href="https://drive.google.com/file/d/1qdlT6pL1LUwXXo56P5QBCttgqJlXvmEJ/view" target="_blank">
+<a href="https://drive.google.com/file/d/1Cm24x7gsLe1fAcRJ27RmnXmZE6_ekxQx/view" target="_blank">
     Database Schema
 </a>
 
